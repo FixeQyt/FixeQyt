@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FixeQyt
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+- 📫 How to reach me on discord @fixeq_yt

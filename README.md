@@ -1,5 +1,1 @@
-<div align="center">
-  <a href="https://fixeqyt.github.io">
-    <img src="https://fixeqyt.github.io/stats/" alt="FixeQ's GitHub contribution statistics" />
-  </a>
-</div>
+[![FixeQ GitHub Stats](https://github-readme-stats.vercel.app/api?username=FixeQyt&show_icons=true&theme=transparent&border_color=C0C0C0&hide=stars&icon_color=999999&rank_icon=github)](https://fixeqyt.github.io/stats)

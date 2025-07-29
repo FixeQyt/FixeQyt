@@ -1,1 +1,1 @@
-[![FixeQ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FixeQyt&show_icons=true&theme=transparent&border_color=C0C0C0&hide=stars&icon_color=999999&rank_icon=github)](https://fixeqyt.github.io)
+[![FixeQ GitHub Stats](https://fixeqyt.github.io/stats)](https://fixeqyt.github.io)

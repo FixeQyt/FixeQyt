@@ -1,1 +1,5 @@
-[![FixeQ GitHub Stats](https://fixeqyt.github.io/stats)](https://fixeqyt.github.io)
+<div align="center">
+  <a href="https://fixeqyt.github.io">
+    <img src="https://fixeqyt.github.io/stats/" alt="FixeQ's GitHub contribution statistics" />
+  </a>
+</div>
